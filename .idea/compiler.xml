@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="akononskiy" />
-        <module name="nandruk" />
+        <module name="v.karpenko" />
         <module name="vkarpenko" />
+        <module name="nandruk" />
+        <module name="n.andruk" />
+        <module name="a.kononskiy" />
       </profile>
     </annotationProcessing>
   </component>
