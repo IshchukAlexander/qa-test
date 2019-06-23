@@ -1,11 +1,17 @@
-public class Rectangle {
-    public static void main(String[] args) {
-        for ( int n = 0; n < 4; n++){
+import java.util.Scanner;
 
-            for (int num = 0; num < 10; num++){
+public class Rectangle {                                     // Добавил сканер
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int num = sc.nextInt();
+
+        for ( int i = 0; i < n; i++){
+
+            for (int y = 0; y < num; y++){
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println(" ");
         }
     }
 }
