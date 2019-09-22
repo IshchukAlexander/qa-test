@@ -1,4 +1,4 @@
-package task3;
+package JavaOOP4.task3;
 
 interface Playable {
     void play ();

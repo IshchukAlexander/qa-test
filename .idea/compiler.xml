@@ -14,5 +14,6 @@
         <module name="a.kononskiy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

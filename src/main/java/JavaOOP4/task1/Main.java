@@ -1,4 +1,4 @@
-package task1;
+package JavaOOP4.task1;
 
 abstract class Shape{
     public  abstract void draw ();

@@ -1,4 +1,4 @@
-package task2;
+package JavaOOP4.task2;
 
 import javax.swing.text.TabExpander;
 import java.util.Scanner;
